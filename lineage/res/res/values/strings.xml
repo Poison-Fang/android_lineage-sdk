@@ -162,6 +162,7 @@
     <string name="megabytespersecond_short">MB/s</string>
 
     <!-- Accent colors -->
+    <string name="accent_amber">Amber</string>
     <string name="accent_black">Black</string>
     <string name="accent_blue">Blue</string>
     <string name="accent_brown">Brown</string>
@@ -172,5 +173,6 @@
     <string name="accent_pink">Pink</string>
     <string name="accent_purple">Purple</string>
     <string name="accent_red">Red</string>
+    <string name="accent_teal">Teal</string>
     <string name="accent_yellow">Yellow</string>
 </resources>
