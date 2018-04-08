@@ -131,5 +131,6 @@
         <item>org.lineageos.overlay.accent.brown</item>
         <item>org.lineageos.overlay.accent.grey</item>
         <item>org.lineageos.overlay.accent.black</item>
+        <item>org.lineageos.overlay.accent.white</item>
     </string-array>
 </resources>
