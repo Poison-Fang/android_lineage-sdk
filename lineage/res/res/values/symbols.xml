@@ -141,6 +141,7 @@
     <java-symbol type="array" name="trusted_accent_packages" />
     <java-symbol type="string" name="accent_amber" />
     <java-symbol type="string" name="accent_black" />
+    <java-symbol type="string" name="accent_bluegrey" />
     <java-symbol type="string" name="accent_brown" />
     <java-symbol type="string" name="accent_cyan" />
     <java-symbol type="string" name="accent_green" />
