@@ -151,6 +151,7 @@
     <java-symbol type="string" name="accent_mint" />
     <java-symbol type="string" name="accent_neonblue" />
     <java-symbol type="string" name="accent_neongreen" />
+    <java-symbol type="string" name="accent_neonorange" />
     <java-symbol type="string" name="accent_orange" />
     <java-symbol type="string" name="accent_pink" />
     <java-symbol type="string" name="accent_purple" />
