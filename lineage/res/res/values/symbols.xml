@@ -154,6 +154,7 @@
     <java-symbol type="string" name="accent_blue" />
     <java-symbol type="string" name="accent_bluegrey" />
     <java-symbol type="string" name="accent_brown" />
+    <java-symbol type="string" name="accent_crimson" />
     <java-symbol type="string" name="accent_cyan" />
     <java-symbol type="string" name="accent_green" />
     <java-symbol type="string" name="accent_grey" />
