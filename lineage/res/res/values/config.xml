@@ -136,6 +136,7 @@
             7 - Sleep
             8 - Last app
             9 - Toggle split screen
+            10 - Close app
          This needs to match the enums in
          sdk/src/java/org/lineageos/internal/util/DeviceKeysConstants.java.
     -->
@@ -152,6 +153,7 @@
             7 - Sleep
             8 - Last app
             9 - Toggle split screen
+            10 - Close app
          This needs to match the enums in
          sdk/src/java/org/lineageos/internal/util/DeviceKeysConstants.java.
     -->
@@ -168,6 +170,7 @@
             7 - Sleep
             8 - Last app
             9 - Toggle split screen
+            10 - Close app
          This needs to match the enums in
          sdk/src/java/org/lineageos/internal/util/DeviceKeysConstants.java.
     -->
@@ -184,6 +187,7 @@
             7 - Sleep
             8 - Last app
             9 - Toggle split screen
+            10 - Close app
          This needs to match the enums in
          sdk/src/java/org/lineageos/internal/util/DeviceKeysConstants.java.
     -->
@@ -195,7 +199,7 @@
 
     <!-- Timeout in MS for how long you have to long-press the back key to
          kill the foreground app. -->
-    <integer name="config_backKillTimeout">2000</integer>
+    <integer name="config_backKillTimeout">200</integer>
 
     <!-- Defines the actions shown in advanced reboot submenu -->
     <string-array name="config_restartActionsList">
