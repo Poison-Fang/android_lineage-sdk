@@ -415,6 +415,9 @@ public class LineageDatabaseHelper extends SQLiteOpenHelper{
 
             loadBooleanSetting(stmt, LineageSettings.Secure.LOCKSCREEN_VISUALIZER_ENABLED,
                     R.bool.def_lockscreen_visualizer);
+           
+            loadBooleanSetting(stmt, LineageSettings.Secure.AMBIENT_VISUALIZER_ENABLED,
+                    R.bool.def_ambient_visualizer);
 
             loadStringSetting(stmt,
                     LineageSettings.Secure.PROTECTED_COMPONENT_MANAGERS,
