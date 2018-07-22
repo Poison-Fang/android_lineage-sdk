@@ -357,7 +357,7 @@ public class NetworkTraffic extends TextView {
             drawableResId = 0;
         }
         mDrawable = drawableResId != 0 ? getResources().getDrawable(drawableResId) : null;
-        setCompoundDrawablesWithIntrinsicBounds(null, null, mDrawable, null);
+        setCompoundDrawablesWithIntrinsicBounds(null, null, null, null);
         updateTrafficDrawableColor();
     }
 
